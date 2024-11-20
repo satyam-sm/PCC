@@ -5,9 +5,9 @@
 struct opTable {
     char code[10], objcode[10];
 } myOpT[3] = {
-    "LDA", "00",
-    "STA", "0C",
-    "LDCH", "50"
+    {"LDA", "00"},
+    {"STA", "0C"},
+    {"JMP", "50"}
 };
 
 struct symbolTable {
@@ -16,161 +16,169 @@ struct symbolTable {
 } mySymTab[10];
 
 int startAddress, locCounter, symCount = 0, length;
-char line[20], label[8], opcode[8], operand[8], programName[10];
+char line[20], label[20], opcode[20], operand[20], programName[20];
+
+const char *assemblyCode[] = {
+    "MYCODE START 1000",
+    "STA",
+    "LOOP1 JMP LOOP2",
+    "LDA",
+    "LOOP2 JMP LOOP1",
+    "RESB 09",
+    "LDA",
+    "STA",
+    "JMP LOOP1",
+    "END"
+};
+
+int assemblyCodeSize = sizeof(assemblyCode) / sizeof(assemblyCode[0]);
 
 void checkLabel() {
-    int k, dupSymbol = 0;
-    for (k = 0; k < symCount; k++)
+    for (int k = 0; k < symCount; k++) {
         if (!strcmp(label, mySymTab[k].symbol)) {
-            mySymTab[k].addr = -1;
-            dupSymbol = 1;
-            break;
+            mySymTab[k].addr = -1; // Duplicate symbol
+            printf("Warning: Duplicate symbol '%s' detected.\n", label);
+            return;
         }
-    if (!dupSymbol) {
+    }
+    if (symCount < 10) {
         strcpy(mySymTab[symCount].symbol, label);
         mySymTab[symCount++].addr = locCounter;
+    } else {
+        printf("Error: Symbol table overflow.\n");
+        exit(1);
     }
 }
 
 void checkOpCode() {
-    int k = 0, found = 0;
-    for (k = 0; k < 3; k++)
+    int found = 0;
+    for (int k = 0; k < 3; k++) {
         if (!strcmp(opcode, myOpT[k].code)) {
             locCounter += 3;
             found = 1;
             break;
         }
+    }
     if (!found) {
-        if (!strcmp(opcode, "WORD")) locCounter += 3;
-        else if (!strcmp(opcode, "RESW")) locCounter += (3 * atoi(operand));
-        else if (!strcmp(opcode, "RESB")) locCounter += atoi(operand);
+        if (!strcmp(opcode, "WORD"))
+            locCounter += 3;
+        else if (!strcmp(opcode, "RESW"))
+            locCounter += (3 * atoi(operand));
+        else if (!strcmp(opcode, "RESB"))
+            locCounter += atoi(operand);
+        else if (!strcmp(opcode, "BYTE"))
+            locCounter += strlen(operand) - 3; // Length of the string literal
     }
 }
 
-void readLine() {
-    char buff[8], word1[8], word2[8], word3[8];
+void readLine(const char *line) {
+    char buff[20] = "", word1[20] = "", word2[20] = "", word3[20] = "";
     int i, j = 0, count = 0;
 
-    label[0] = opcode[0] = operand[0] = word1[0] = word2[0] = word3[0] = '\0';
+    label[0] = opcode[0] = operand[0] = '\0';
     for (i = 0; line[i] != '\0'; i++) {
-        if (line[i] != ' ') buff[j++] = line[i];
-        else {
+        if (line[i] != ' ') {
+            buff[j++] = line[i];
+        } else if (j > 0) {
             buff[j] = '\0';
-            strcpy(word3, word2);
-            strcpy(word2, word1);
-            strcpy(word1, buff);
             j = 0;
             count++;
+            if (count == 1) strcpy(word1, buff);
+            else if (count == 2) strcpy(word2, buff);
+            else if (count == 3) strcpy(word3, buff);
         }
     }
-    buff[j - 1] = '\0';
-    strcpy(word3, word2);
-    strcpy(word2, word1);
-    strcpy(word1, buff);
+    if (j > 0) {
+        buff[j] = '\0';
+        count++;
+        if (count == 1) strcpy(word1, buff);
+        else if (count == 2) strcpy(word2, buff);
+        else if (count == 3) strcpy(word3, buff);
+    }
 
     switch (count) {
-        case 0:
+        case 1:
             strcpy(opcode, word1);
             break;
-        case 1: {
+        case 2:
             strcpy(opcode, word2);
             strcpy(operand, word1);
-        }
-        break;
-        case 2: {
+            break;
+        case 3:
             strcpy(label, word3);
             strcpy(opcode, word2);
             strcpy(operand, word1);
-        }
-        break;
+            break;
     }
 }
 
 void PASS1() {
-    FILE *input, *inter;
-    input = fopen("assemblycode.txt", "r");
-    inter = fopen("intermediate.txt", "w");
-
     printf("LOCATION LABEL\tOPERAND\tOPCODE\n");
-    printf("_____________________________________");
+    printf("_____________________________________\n");
 
-    fgets(line, 20, input);
-    readLine();
+    readLine(assemblyCode[0]);
 
     if (!strcmp(opcode, "START")) {
         startAddress = atoi(operand);
         locCounter = startAddress;
         strcpy(programName, label);
-        fprintf(inter, "%s", line);
-        fgets(line, 20, input);
+        printf("\n%04X\t%s\t%s\t%s", locCounter, label, opcode, operand);
     } else {
         programName[0] = '\0';
         startAddress = 0;
         locCounter = 0;
     }
 
-    printf("\n %d\t %s\t%s\t %s", locCounter, label, opcode, operand);
-    while (strcmp(line, "END") != 0) {
-        readLine();
-        printf("\n %d\t %s \t%s\t %s", locCounter, label, opcode, operand);
+    for (int i = 1; i < assemblyCodeSize; i++) {
+        strcpy(line, assemblyCode[i]);
+        readLine(line);
+        if (!strcmp(opcode, "END")) break;
+
+        printf("\n%04X\t%s\t%s\t%s", locCounter, label, opcode, operand);
         if (label[0] != '\0') checkLabel();
         checkOpCode();
-        fprintf(inter, "%s %s %s\n", label, opcode, operand);
-        fgets(line, 20, input);
     }
 
-    printf("\n %d\t\t%s", locCounter, line);
-    fprintf(inter, "%s", line);
-
-    fclose(inter);
-    fclose(input);
+    printf("\n%04X\t\t%s\n", locCounter, "END");
 }
 
 void PASS2() {
-    FILE *inter, *output;
-    char record[30], part[6], value[5];
-    int currtxtlen = 0, foundopcode, foundoperand, chk, operandaddr, recaddr = 0;
-
-    inter = fopen("intermediate.txt", "r");
-    output = fopen("output.txt", "w");
-
-    fgets(line, 20, inter);
-    readLine();
-
-    if (!strcmp(opcode, "START")) fgets(line, 20, inter);
+    char record[30] = "", part[10] = "", value[10] = "";
+    int currtxtlen = 0, recaddr = startAddress;
 
     printf("\n\nObject Code\n");
-    printf("\nH^ %s ^ %d ^ %d ", programName, startAddress, length);
-    fprintf(output, "\nH^ %s ^ %d ^ %d ", programName, startAddress, length);
+    printf("H^ %s ^ %04X ^ %04X\n", programName, startAddress, length);
 
-    recaddr = startAddress;
-    record[0] = '\0';
+    for (int i = 1; i < assemblyCodeSize; i++) {
+        int operandaddr = 0, foundopcode = 0, foundoperand = 0;
+        part[0] = value[0] = '\0';
+        strcpy(line, assemblyCode[i]);
+        readLine(line);
 
-    while (strcmp(line, "END") != 0) {
-        operandaddr = foundoperand = foundopcode = 0;
-        value[0] = part[0] = '\0';
-        readLine();
+        if (!strcmp(opcode, "END")) break;
 
-        for (chk = 0; chk < 3; chk++) {
-            if (!strcmp(opcode, myOpT[chk].code)) {
+        for (int k = 0; k < 3; k++) {
+            if (!strcmp(opcode, myOpT[k].code)) {
                 foundopcode = 1;
-                strcpy(part, myOpT[chk].objcode);
+                strcpy(part, myOpT[k].objcode);
                 if (operand[0] != '\0') {
-                    for (chk = 0; chk < symCount; chk++)
+                    for (int chk = 0; chk < symCount; chk++) {
                         if (!strcmp(mySymTab[chk].symbol, operand)) {
-                            sprintf(value, "%d", mySymTab[chk].addr);
+                            sprintf(value, "%04X", mySymTab[chk].addr);
                             strcat(part, value);
                             foundoperand = 1;
+                            break;
                         }
-                    if (!foundoperand) strcat(part, "err");
+                    }
+                    if (!foundoperand) strcat(part, "0000");
                 }
+                break;
             }
         }
 
         if (!foundopcode) {
-            if (strcmp(opcode, "BYTE") == 0 || strcmp(opcode, "WORD") || strcmp(opcode, "RESB")) {
-                strcat(part, operand);
-            }
+            if (!strcmp(opcode, "BYTE") || !strcmp(opcode, "WORD"))
+                strcpy(part, operand);
         }
 
         if ((currtxtlen + strlen(part)) <= 8) {
@@ -178,28 +186,23 @@ void PASS2() {
             strcat(record, part);
             currtxtlen += strlen(part);
         } else {
-            printf("\nT^ %d ^%d %s", recaddr, currtxtlen, record);
-            fprintf(output, "\nT^ %d ^%d %s", recaddr, currtxtlen, record);
+            printf("T^ %04X ^%02X %s\n", recaddr, currtxtlen, record);
             recaddr += currtxtlen;
             currtxtlen = strlen(part);
             strcpy(record, part);
         }
-        fgets(line, 20, inter);
     }
 
-    printf("\nT^ %d ^%d %s", recaddr, currtxtlen, record);
-    fprintf(output, "\nT^ %d ^%d %s", recaddr, currtxtlen, record);
-    printf("\nE^ %d\n", startAddress);
-    fprintf(output, "\nE^ %d\n", startAddress);
+    if (currtxtlen > 0) {
+        printf("T^ %04X ^%02X %s\n", recaddr, currtxtlen, record);
+    }
 
-    fclose(inter);
-    fclose(output);
+    printf("E^ %04X\n", startAddress);
 }
 
 int main() {
     PASS1();
     length = locCounter - startAddress;
     PASS2();
-    // Removed getch() as it's not portable
-    getchar(); // Waits for a keypress before exit
+    return 0;
 }

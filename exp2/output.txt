@@ -1,7 +1,7 @@
 
 H^ MYCODE ^ 1000 ^ 9 
-T^ 1000 ^20 ^LOOP2^L~"Ø«|
-T^ 1020 ^20 ^LOOP1^L~"Ø«|
+T^ 1000 ^20 ^LOOP2^LŽ£mr
+T^ 1020 ^20 ^LOOP1^LŽ£mr
 T^ 1040 ^3 
-T^ 1043 ^6 LOOP1L^L~"Ø«|
+T^ 1043 ^6 LOOP1L^LŽ£mr
 E^ 1000

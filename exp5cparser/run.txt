@@ -1,0 +1,4 @@
+flex parser.l
+bison -d parser.y
+gcc parser.tab.c lex.yy.c -o parser -lfl
+./parser
