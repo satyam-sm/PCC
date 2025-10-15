@@ -1,5 +1,6 @@
 Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,Activation Date,Qualification Date,Country,Campaign,Partner Code,Trader Brand,Referral Url,Auto Rebate Plan,CPA Comm.,Mobile App,TNCR
 2905455,321343744,MT5,Lot Rebate,Standard - USD,04/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+4988028,321449559,MT5,Lot Rebate,Standard - USD,02/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 5018937,321285293,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,04/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 5770033,5770033,MT5,CPA,Ultra Low Standard - EUR,13/07/2025,Y,-,-,Germany,Default Trader Campaign,,XM,https://www.youtube.com,-,0.00000,N,Y
 5881081,5881081,MT5,CPA,Ultra Low Standard - EUR,27/08/2025,N,-,-,Germany,Default Trader Campaign,P387D,XM,,-,0.00000,N,N
@@ -39,6 +40,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 81229095,400404167,MT5,Lot Rebate,Standard - USD,14/07/2025,Y,09/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 81970967,321076309,MT5,Lot Rebate,Ultra Low Standard - USD,13/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 81970967,390696273,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+82054688,351627233,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,11/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 82480724,351453638,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 82483389,321369566,MT5,Lot Rebate,Standard - USD,07/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 82599186,82599186,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,21/07/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
@@ -83,6 +85,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 91677309,91677309,MT5,Lot Rebate,Standard - USD,18/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 91680584,91680584,MT5,Lot Rebate,Standard - USD,21/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 91718684,91718684,MT5,Lot Rebate,Standard - USD,16/08/2025,N,-,N/A,Bangladesh,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+91810193,314737760,MT5,Lot Rebate,Standard - USD,02/10/2025,Y,-,N/A,Oman,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 300770128,321311983,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,03/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 300894592,321094148,MT5,Lot Rebate,Standard - USD,15/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 300961669,63925865,MT5,Lot Rebate,Standard - USD,14/07/2025,Y,16/07/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
@@ -101,7 +104,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 301690896,301690896,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,Libya,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
 301690975,301690975,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,Maldives,Default Trader Campaign,,XM InternationalMU,,Default,-,N,Y
 301701492,301701492,MT5,Lot Rebate,Standard - USD,20/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-301702134,301702134,MT5,Lot Rebate,Standard - USD,20/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+301702134,301702134,MT5,Lot Rebate,Standard - USD,20/08/2025,Y,08/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 301702319,301702319,MT5,Lot Rebate,Standard - USD,20/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 301702880,301702880,MT5,Lot Rebate,Standard - USD,20/08/2025,Y,25/08/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 301703050,301703050,MT5,Lot Rebate,Standard - USD,20/08/2025,Y,21/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
@@ -136,7 +139,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 301717624,301717624,MT5,Lot Rebate,Standard - USD,22/08/2025,Y,03/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 301718219,301718219,MT5,Lot Rebate,Standard - USD,22/08/2025,Y,22/08/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 301718219,301719203,MT5,Lot Rebate,Standard - USD,22/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-301718674,321338391,MT5,Lot Rebate,Standard - USD,03/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+301718674,321338391,MT5,Lot Rebate,Standard - USD,03/09/2025,Y,11/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 301718769,301718769,MT5,Lot Rebate,Standard - USD,22/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 301720230,301720230,MT5,Lot Rebate,Standard - USD,22/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,Y,Y
 301720458,301720458,MT5,Lot Rebate,Standard - USD,22/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -156,7 +159,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 301726864,301727579,MT5,Lot Rebate,Ultra Low Standard - USD,23/08/2025,Y,-,N/A,India,NewUltraLow,,XM Global,,Default,-,N,N
 301729180,301729180,MT5,Lot Rebate,Standard - USD,24/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 301729360,301729360,MT5,Lot Rebate,Standard - USD,24/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,Y,N
-301730043,301730043,MT5,Lot Rebate,Standard - USD,24/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+301730043,301730043,MT5,Lot Rebate,Standard - USD,24/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 301730619,301730619,MT5,Lot Rebate,Standard - USD,24/08/2025,Y,03/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 310518307,351372655,MT5,Lot Rebate,Standard - USD,25/07/2025,Y,25/07/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 310591872,361253196,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
@@ -169,13 +172,15 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 314598865,314598865,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 314598896,314598896,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 314598929,314598929,MT5,Lot Rebate,Standard - USD,12/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-314599350,314599350,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+314599350,314599350,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 314599578,314599578,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 314600140,314600140,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,N
 314601547,314601547,MT5,Lot Rebate,Standard - USD,14/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 314601774,314601774,MT5,Lot Rebate,Standard - USD,14/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 314611577,314611577,MT5,Lot Rebate,Standard - USD,21/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 314692685,314692685,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,Kuwait,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+320009396,351647648,MT5,Lot Rebate,Ultra Low Standard - USD,24/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+320120869,321546842,MT5,Lot Rebate,Standard - USD,12/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 320864887,400400995,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 320872549,321190706,MT5,Lot Rebate,Standard - USD,04/08/2025,Y,05/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 321063351,351447916,MT5,Lot Rebate,Ultra Low Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
@@ -305,7 +310,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321225946,321225946,MT5,Lot Rebate,Standard - USD,09/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321226376,321226376,MT5,Lot Rebate,Standard - USD,09/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321226407,321226407,MT5,Lot Rebate,Standard - USD,09/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-321228469,321228469,MT5,Lot Rebate,Standard - USD,09/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321228469,321228469,MT5,Lot Rebate,Standard - USD,09/08/2025,Y,25/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321229231,321229231,MT5,Lot Rebate,Standard - USD,09/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321229906,321229906,MT5,Lot Rebate,Standard - USD,09/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321230692,88656296,MT5,Lot Rebate,Standard - USD,11/08/2025,Y,15/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
@@ -388,7 +393,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321279119,321279119,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321279167,321279167,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321279351,321279351,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-321279640,321279640,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321279640,321279640,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,30/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321279756,321279756,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321279878,321279878,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321279923,321279923,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -400,7 +405,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321281249,321281249,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321281253,321281253,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321281282,321281282,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-321281417,321281417,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321281417,321281417,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,11/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 321281896,321281896,MT5,Lot Rebate,Standard - USD,27/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 321282084,321282084,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321282962,321282962,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
@@ -437,6 +442,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321289362,321289362,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321289362,321289697,MT5,Lot Rebate,Ultra Low Standard - USD,28/08/2025,Y,01/09/2025,N/A,India,NewUltraLow,,XM Global,,Default,-,N,N
 321289525,321289525,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321289525,351636079,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 321289662,321289662,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321289705,321289705,MT5,Lot Rebate,Standard - USD,28/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321289918,321289918,MT5,Lot Rebate,Standard - USD,28/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -457,8 +463,8 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321295125,321295125,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 321295169,321295169,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321295657,321295657,MT5,Lot Rebate,Standard - USD,29/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-321295841,321295841,MT5,Lot Rebate,Standard - USD,29/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-321296154,321296154,MT5,Lot Rebate,Standard - USD,29/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321295841,321295841,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321296154,321296154,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321296179,321296179,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,29/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321296215,321296215,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321296418,321296418,MT5,Lot Rebate,Standard - USD,29/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
@@ -486,13 +492,13 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321301247,321301247,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321301345,321301345,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321301345,321312824,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-321301370,321301370,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321301370,321301370,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,14/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321301461,321301461,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321301797,321301797,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321301906,321301906,MT5,Lot Rebate,Standard - USD,30/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321302118,321302118,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,08/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321302188,321302188,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
-321302886,321302886,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321302886,321302886,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,13/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321302930,321302930,MT5,Lot Rebate,Standard - USD,30/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321303360,321303360,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,30/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321303559,321303559,MT5,Lot Rebate,Standard - USD,30/08/2025,Y,30/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -529,7 +535,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321312853,321312853,MT5,Lot Rebate,Standard - USD,31/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321312917,321312917,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321312917,321313297,MT5,Lot Rebate,Ultra Low Standard - USD,31/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-321313033,321313033,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321313033,321313033,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,02/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321314850,321314850,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 321316363,321316363,MT5,Lot Rebate,Standard - USD,01/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321316650,321316650,MT5,Lot Rebate,Standard - USD,01/09/2025,Y,01/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -575,10 +581,11 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321329580,321329580,MT5,Lot Rebate,Standard - USD,02/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 321329940,321329940,MT5,Lot Rebate,Standard - USD,02/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321331460,321331460,MT5,Lot Rebate,Standard - USD,02/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-321333278,321333278,MT5,Lot Rebate,Standard - USD,03/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321333278,321333278,MT5,Lot Rebate,Standard - USD,03/09/2025,Y,22/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321333952,321333952,MT5,Lot Rebate,Standard - USD,03/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321334559,321334559,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-321334731,321334731,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321334731,321334731,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321334731,351613765,MT5,Lot Rebate,Standard - USD,21/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 321334786,321334786,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321335503,321335503,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 321335608,321335608,MT5,Lot Rebate,Standard - USD,03/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
@@ -599,11 +606,11 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321345874,321345874,MT5,Lot Rebate,Standard - USD,04/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321346680,321346680,MT5,Lot Rebate,Standard - USD,04/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 321349846,321349846,MT5,Lot Rebate,Standard - USD,05/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-321353481,321353481,MT5,Lot Rebate,Standard - USD,05/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321353481,321353481,MT5,Lot Rebate,Standard - USD,05/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321353594,321353594,MT5,Lot Rebate,Standard - USD,05/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321353625,321353625,MT5,Lot Rebate,Standard - USD,05/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321353625,351507942,MT5,Lot Rebate,Standard - USD,10/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-321353707,321353707,MT5,Lot Rebate,Standard - USD,05/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321353707,321353707,MT5,Lot Rebate,Standard - USD,05/09/2025,Y,14/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 321356852,321356852,MT5,Lot Rebate,Standard - USD,05/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://free.fearlesstradershivam.in,Default,-,N,Y
 321356951,321356951,MT5,Lot Rebate,Standard - USD,06/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,N
 321357911,321357911,MT5,Lot Rebate,Standard - USD,06/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -648,6 +655,164 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 321394431,14262285,MT4,Lot Rebate,Micro - USD,11/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 321394431,321394431,MT5,Lot Rebate,Standard - USD,10/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 321394612,351533896,MT5,Lot Rebate,Ultra Low Standard - USD,13/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321396869,321396869,MT5,Lot Rebate,Standard - USD,26/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321397225,321397225,MT5,Lot Rebate,Standard - USD,26/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321397432,321397432,MT5,Lot Rebate,Standard - USD,26/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321398032,321398032,MT5,Lot Rebate,Standard - USD,26/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321399264,321399264,MT5,Lot Rebate,Standard - USD,26/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321405052,321405052,MT5,Lot Rebate,Standard - USD,27/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321406020,321406020,MT5,Lot Rebate,Standard - USD,27/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321406299,321406299,MT5,Lot Rebate,Standard - USD,27/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321409148,321409148,MT5,Lot Rebate,Standard - USD,27/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321411813,321415782,MT5,Lot Rebate,Standard - USD,28/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321414061,321414061,MT5,Lot Rebate,Standard - USD,28/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321414249,321414249,MT5,Lot Rebate,Standard - USD,28/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321415960,321415960,MT5,Lot Rebate,Standard - USD,28/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321416247,321416247,MT5,Lot Rebate,Standard - USD,28/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321417066,321417066,MT5,Lot Rebate,Standard - USD,28/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321417882,321417882,MT5,Lot Rebate,Standard - USD,28/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321420011,321420011,MT5,Lot Rebate,Standard - USD,29/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321422448,321422448,MT5,Lot Rebate,Standard - USD,29/09/2025,Y,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,Y
+321423088,321423088,MT5,Lot Rebate,Standard - USD,29/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321424799,321424799,MT5,Lot Rebate,Standard - USD,29/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321424954,321424954,MT5,Lot Rebate,Standard - USD,29/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321425039,321425039,MT5,Lot Rebate,Standard - USD,29/09/2025,Y,29/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321425487,321425487,MT5,Lot Rebate,Standard - USD,29/09/2025,Y,03/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321427639,321427639,MT5,Lot Rebate,Standard - USD,30/09/2025,Y,01/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321432058,321432058,MT5,Lot Rebate,Standard - USD,30/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321433403,321433403,MT5,Lot Rebate,Standard - USD,30/09/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,Y
+321433887,321433887,MT5,Lot Rebate,Standard - USD,30/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321434551,321434551,MT5,Lot Rebate,Standard - USD,30/09/2025,Y,30/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321435067,321435067,MT5,Lot Rebate,Standard - USD,30/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321436194,321436194,MT5,Lot Rebate,Standard - USD,30/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321437293,321437293,MT5,Lot Rebate,Standard - USD,30/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321440057,321440057,MT5,Lot Rebate,Standard - USD,01/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321440633,321440633,MT5,Lot Rebate,Standard - USD,01/10/2025,Y,13/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321440633,321564437,MT5,Lot Rebate,Standard - USD,13/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321442678,321442678,MT5,Lot Rebate,Standard - USD,01/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321444642,321444642,MT5,Lot Rebate,Standard - USD,01/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321444665,321444665,MT5,Lot Rebate,Standard - USD,01/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
+321444843,321444843,MT5,Lot Rebate,Standard - USD,01/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321445668,321445668,MT5,Lot Rebate,Standard - USD,01/10/2025,Y,02/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321449453,321449453,MT5,Lot Rebate,Standard - USD,02/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321449938,321449938,MT5,Lot Rebate,Standard - USD,02/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,N
+321450169,321450169,MT5,Lot Rebate,Standard - USD,02/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321450675,321450675,MT5,Lot Rebate,Standard - USD,02/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321451217,321451217,MT5,Lot Rebate,Standard - USD,02/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321455173,321455173,MT5,Lot Rebate,Standard - USD,02/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321455754,53180771,MT4,Lot Rebate,Micro - USD,06/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321455754,321455754,MT5,Lot Rebate,Standard - USD,02/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321456736,321456736,MT5,Lot Rebate,Standard - USD,03/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321457544,321457544,MT5,Lot Rebate,Standard - USD,03/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321457553,321457553,MT5,Lot Rebate,Standard - USD,03/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321457759,321457759,MT5,Lot Rebate,Standard - USD,03/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321459570,321459570,MT5,Lot Rebate,Standard - USD,03/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321461722,321461722,MT5,Lot Rebate,Standard - USD,03/10/2025,Y,10/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321462770,321462770,MT5,Lot Rebate,Standard - USD,03/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321464225,321464225,MT5,Lot Rebate,Standard - USD,03/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321465788,321465788,MT5,Lot Rebate,Standard - USD,04/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321466581,321466581,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321466718,321466718,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321466718,321471181,MT5,Lot Rebate,Ultra Low Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321467085,321467085,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321468527,321468527,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,07/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321468692,321468692,MT5,Lot Rebate,Standard - USD,04/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://m.youtube.com,Default,-,N,N
+321468750,321468750,MT5,Lot Rebate,Standard - USD,04/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321468847,321468847,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,09/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321471953,321471953,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321472338,321472338,MT5,Lot Rebate,Standard - USD,04/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321472484,321472484,MT5,Lot Rebate,Standard - USD,04/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321472561,321472561,MT5,Lot Rebate,Standard - USD,04/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321474168,321474168,MT5,Lot Rebate,Standard - USD,05/10/2025,Y,05/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321474952,321474952,MT5,Lot Rebate,Standard - USD,05/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+321476780,321476780,MT5,Lot Rebate,Standard - USD,05/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321478238,321478238,MT5,Lot Rebate,Standard - USD,05/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321478257,321478257,MT5,Lot Rebate,Standard - USD,05/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321479723,321479723,MT5,Lot Rebate,Standard - USD,05/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321480597,321480597,MT5,Lot Rebate,Standard - USD,05/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321481271,321481271,MT5,Lot Rebate,Standard - USD,06/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321481271,321491802,MT5,Lot Rebate,Micro - USD,07/10/2025,Y,08/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321481271,321502437,MT5,Lot Rebate,Ultra Low Standard - USD,08/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321483219,321483219,MT5,Lot Rebate,Standard - USD,06/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321485212,321485212,MT5,Lot Rebate,Standard - USD,06/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321488281,321488281,MT5,Lot Rebate,Standard - USD,06/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321488427,321488427,MT5,Lot Rebate,Standard - USD,06/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321489920,321489920,MT5,Lot Rebate,Standard - USD,06/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321490262,321490262,MT5,Lot Rebate,Standard - USD,06/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321493248,321493248,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,07/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321493853,321493853,MT5,Lot Rebate,Standard - USD,07/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321495386,321495386,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,10/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321495937,321495937,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,07/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321496318,321496318,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321496405,321496405,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,07/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321496592,321496592,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+321497472,321497472,MT5,Lot Rebate,Standard - USD,07/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321498104,321498104,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+321498631,321498631,MT5,Lot Rebate,Standard - USD,07/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321500140,321500140,MT5,Lot Rebate,Standard - USD,07/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321502253,321502253,MT5,Lot Rebate,Standard - USD,08/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321502403,321502403,MT5,Lot Rebate,Standard - USD,08/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+321505463,321505463,MT5,Lot Rebate,Standard - USD,08/10/2025,Y,10/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321505774,321505774,MT5,Lot Rebate,Standard - USD,08/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321506626,321506626,MT5,Lot Rebate,Standard - USD,08/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,N
+321507790,321507790,MT5,Lot Rebate,Standard - USD,08/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321511892,321511892,MT5,Lot Rebate,Standard - USD,08/10/2025,Y,09/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321512476,321512476,MT5,Lot Rebate,Standard - USD,09/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+321513196,321513196,MT5,Lot Rebate,Standard - USD,09/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321514946,321514946,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321515958,321515958,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321519494,321519494,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321519799,321519799,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321521031,321521031,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321522683,321522683,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,10/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321523302,321523302,MT5,Lot Rebate,Standard - USD,09/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321525945,321525945,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321525945,321531472,MT5,Lot Rebate,Ultra Low Standard - USD,10/10/2025,Y,11/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321527426,321527426,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321532222,321532222,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,14/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321534929,321534929,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321534993,321534993,MT5,Lot Rebate,Standard - USD,10/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321535256,321535256,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321535256,321546971,MT5,Lot Rebate,Standard - USD,12/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321535715,321535715,MT5,Lot Rebate,Standard - USD,10/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321536151,321536151,MT5,Lot Rebate,Standard - USD,11/10/2025,Y,13/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321537300,321537300,MT5,Lot Rebate,Standard - USD,11/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321537407,321537407,MT5,Lot Rebate,Standard - USD,11/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321539705,321539705,MT5,Lot Rebate,Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+321540428,321540428,MT5,Lot Rebate,Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321540606,321540606,MT5,Lot Rebate,Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321541091,321541091,MT5,Lot Rebate,Standard - USD,11/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321542686,321542686,MT5,Lot Rebate,Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321543268,321543268,MT5,Lot Rebate,Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321543677,321543677,MT5,Lot Rebate,Standard - USD,11/10/2025,Y,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,Y
+321546679,321546679,MT5,Lot Rebate,Standard - USD,12/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,N
+321547897,321547897,MT5,Lot Rebate,Standard - USD,12/10/2025,Y,13/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321550540,321550540,MT5,Lot Rebate,Standard - USD,12/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321550673,321550673,MT5,Lot Rebate,Standard - USD,12/10/2025,Y,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
+321551935,321551935,MT5,Lot Rebate,Standard - USD,12/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321554182,321554182,MT5,Lot Rebate,Standard - USD,12/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321558237,321558237,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321559436,321559436,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321560492,321560492,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+321560845,321560845,MT5,Lot Rebate,Standard - USD,13/10/2025,Y,14/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321561552,321561552,MT5,Lot Rebate,Standard - USD,13/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321562385,321562385,MT5,Lot Rebate,Standard - USD,13/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321562696,321562696,MT5,Lot Rebate,Standard - USD,13/10/2025,Y,14/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321563110,321563110,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
+321565621,321565621,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,Y
+321567280,321567280,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321567360,321567360,MT5,Lot Rebate,Standard - USD,13/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
+321568962,321568962,MT5,Lot Rebate,Standard - USD,14/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+321569045,321569045,MT5,Lot Rebate,Standard - USD,14/10/2025,N,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
+321569407,321569407,MT5,Lot Rebate,Standard - USD,14/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321570132,321570132,MT5,Lot Rebate,Standard - USD,14/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+321572365,321572365,MT5,Lot Rebate,Standard - USD,14/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+321574477,321574477,MT5,Lot Rebate,Standard - USD,14/10/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321577164,321577164,MT5,Lot Rebate,Standard - USD,14/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+321580171,321580171,MT5,Lot Rebate,Standard - USD,15/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+321582976,321582976,MT5,Lot Rebate,Standard - USD,15/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+321586432,321586432,MT5,Lot Rebate, - ,15/10/2025,N,-,N/A,,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+323175531,321399376,MT5,Lot Rebate,Standard - USD,26/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 323290857,351418784,MT5,Lot Rebate,Standard - USD,31/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 323498132,321209136,MT5,Lot Rebate,Standard - USD,06/08/2025,Y,10/08/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,N
 323530263,323530263,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
@@ -666,6 +831,8 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 323543707,323543707,MT5,Lot Rebate,Standard - USD,20/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 330803540,321291780,MT5,Lot Rebate,Standard - USD,29/08/2025,Y,01/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 330881098,321279421,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+331137284,46201848,MT4,Lot Rebate,Micro - USD,26/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
+331209608,85873824,MT5,Lot Rebate,Ultra Low Standard - USD,15/10/2025,Y,-,N/A,Bangladesh,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 331404749,390696322,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,N
 331460915,331460915,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,24/07/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 331460990,331460990,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -684,7 +851,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 340939707,351448823,MT5,Lot Rebate,Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 341186198,351585289,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 341405889,341405889,MT5,Lot Rebate,Standard - USD,12/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,Y
-341405966,341405966,MT5,Lot Rebate,Standard - USD,12/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,Y
+341405966,341405966,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,Y
 341406634,341406634,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,-,N/A,United Arab Emirates,Default Trader Campaign,,XM Global,,Default,-,Y,Y
 341406801,341406801,MT5,Lot Rebate,Standard - USD,13/07/2025,Y,17/07/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 341407012,341407012,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
@@ -833,13 +1000,14 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351416331,351416331,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351417345,351417345,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,-,N/A,Pakistan,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351417676,351417676,MT5,Lot Rebate,Standard - USD,31/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-351417933,351417933,MT5,Lot Rebate,Standard - USD,31/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351417933,351417933,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351418089,351418089,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351418172,351418172,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,16/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351418751,351418751,MT5,Lot Rebate,Standard - USD,31/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351421426,351421426,MT5,Lot Rebate,Standard - USD,01/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351421517,351421517,MT5,Lot Rebate,Standard - USD,01/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351423797,351423797,MT5,Lot Rebate,Standard - USD,01/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351423902,321478168,MT5,Lot Rebate,Standard - USD,05/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 351423902,351423902,MT5,Lot Rebate,Standard - USD,01/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351424444,351424444,MT5,Lot Rebate,Standard - USD,01/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351424719,351424719,MT5,Lot Rebate,Standard - USD,01/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
@@ -921,7 +1089,8 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351452674,351452674,MT5,Lot Rebate,Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351452718,351452718,MT5,Lot Rebate,Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351452721,351452721,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,Y,Y
-351452745,351452745,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+351452745,351452745,MT5,Lot Rebate,Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+351452745,351634743,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 351452796,351452796,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,Y,Y
 351452945,351452945,MT5,Lot Rebate,Standard - USD,15/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351453164,351453164,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
@@ -943,7 +1112,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351460048,351472090,MT5,Lot Rebate,Standard - USD,18/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,Y,N
 351461943,351461943,MT5,Lot Rebate,Standard - USD,17/08/2025,N,-,N/A,Pakistan,Default Trader Campaign,,XM Global,,Default,-,N,N
 351462372,351462372,MT5,Lot Rebate,Standard - USD,17/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351463155,351463155,MT5,Lot Rebate,Standard - USD,17/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351463155,351463155,MT5,Lot Rebate,Standard - USD,17/08/2025,Y,09/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351463282,351463282,MT5,Lot Rebate,Standard - USD,17/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351463894,351463894,MT5,Lot Rebate,Standard - USD,17/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351463898,351463898,MT5,Lot Rebate,Standard - USD,17/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
@@ -972,14 +1141,14 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351475526,351475526,MT5,Lot Rebate,Standard - USD,19/08/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351477364,351477364,MT5,Lot Rebate,Standard - USD,19/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351478187,351478187,MT5,Lot Rebate,Standard - USD,19/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
-351481579,351481579,MT5,Lot Rebate,Standard - USD,20/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+351481579,351481579,MT5,Lot Rebate,Standard - USD,20/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351481761,351481761,MT5,Lot Rebate,Standard - USD,20/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351509637,351509637,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351511505,351511505,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,Y
 351512241,351512241,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351513652,351513652,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351513663,351513663,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-351513790,351513790,MT5,Lot Rebate,Standard - USD,11/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+351513663,351513663,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351513790,351513790,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351513953,351513953,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351514019,351514019,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,15/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351514054,351514054,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,-,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,N,Y
@@ -988,12 +1157,13 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351515617,351515617,MT5,Lot Rebate,Standard - USD,11/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351519185,351519185,MT5,Lot Rebate,Standard - USD,12/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351519260,351519260,MT5,Lot Rebate,Standard - USD,12/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351519323,351519323,MT5,Lot Rebate,Standard - USD,12/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+351519323,351519323,MT5,Lot Rebate,Standard - USD,12/09/2025,Y,22/09/2025,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351519596,351519596,MT5,Lot Rebate,Standard - USD,12/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351519717,351519717,MT5,Lot Rebate,Standard - USD,12/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+351528788,321551059,MT5,Lot Rebate,Ultra Low Standard - USD,12/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351529590,351529590,MT5,Lot Rebate,Standard - USD,13/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351530887,351530887,MT5,Lot Rebate,Standard - USD,13/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351535520,351535520,MT5,Lot Rebate,Standard - USD,13/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351535520,351535520,MT5,Lot Rebate,Standard - USD,13/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351537362,351537362,MT5,Lot Rebate,Standard - USD,14/09/2025,Y,14/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351541557,351541557,MT5,Lot Rebate,Standard - USD,14/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351541576,351541576,MT5,Lot Rebate,Standard - USD,14/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
@@ -1014,14 +1184,14 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351561206,351561206,MT5,Lot Rebate,Standard - USD,16/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 351567848,351567848,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351569082,351569082,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-351572228,351572228,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351572814,351572814,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351572228,351572228,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,27/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351572814,351572814,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,04/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351573810,351573810,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351575151,351575151,MT5,Lot Rebate,Standard - USD,17/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351577665,351577665,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-351577711,351577711,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351577711,351577711,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351578075,351578075,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351578296,351578296,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351578296,351578296,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,15/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351578460,351578460,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 351578520,351578520,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,18/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351579067,351579067,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,18/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -1029,9 +1199,9 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351583032,351583032,MT5,Lot Rebate,Standard - USD,18/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,N
 351583647,351583647,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://m.youtube.com,Default,-,N,Y
 351583808,351583808,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,19/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
-351584351,351584351,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351585825,351585825,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351587092,351587092,MT5,Lot Rebate,Standard - USD,19/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351584351,351584351,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,22/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351585825,351585825,MT5,Lot Rebate,Standard - USD,18/09/2025,Y,11/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351587092,351587092,MT5,Lot Rebate,Standard - USD,19/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351587202,351587202,MT5,Lot Rebate,Standard - USD,19/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351587498,351587498,MT5,Lot Rebate,Standard - USD,19/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351587960,351587960,MT5,Lot Rebate,Standard - USD,19/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -1047,28 +1217,75 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 351588764,351588764,MT5,Lot Rebate,Standard - USD,19/09/2025,Y,19/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351588764,351589259,MT5,Lot Rebate,Ultra Low Standard - USD,19/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 351595320,351595320,MT5,Lot Rebate,Standard - USD,19/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
-351598432,351598432,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351598432,351598432,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351598708,351598708,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351598730,351598730,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351598895,351598895,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351599050,351599050,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351599330,351599330,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351599330,351599330,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 351599658,351599658,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351599745,351599745,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351600169,351600169,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
-351600944,351600944,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351600169,351600169,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351600944,351600944,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 351600982,351600982,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 351601063,351601063,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351601135,351601135,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
-351601455,351601455,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
+351601455,351601455,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://bit.ly,Default,-,N,Y
 351601920,351601920,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351602283,351602283,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
 351603114,351603114,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 351603376,351603376,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 351603553,351603553,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
-351603561,351603561,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
-351603715,351603715,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+351603561,351603561,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351603715,351603715,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+351603903,351603903,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351603903,351604153,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+351604310,351604310,MT5,Lot Rebate,Standard - USD,20/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351605114,351605114,MT5,Lot Rebate,Standard - USD,20/09/2025,Y,06/10/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351607022,351607022,MT5,Lot Rebate,Standard - USD,21/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351607283,351607283,MT5,Lot Rebate,Standard - USD,21/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351607583,351607583,MT5,Lot Rebate,Standard - USD,21/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351608051,351608051,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351608631,351608631,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351611586,351611586,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351612381,351612381,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351612564,351612564,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351612799,351612799,MT5,Lot Rebate,Standard - USD,21/09/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+351613739,351613739,MT5,Lot Rebate,Standard - USD,21/09/2025,Y,08/10/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351616427,351616427,MT5,Lot Rebate,Standard - USD,22/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351620124,351620124,MT5,Lot Rebate,Standard - USD,22/09/2025,Y,27/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351620124,351624818,MT5,Lot Rebate,Ultra Low Standard - USD,22/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351620124,351625465,MT5,Lot Rebate,Ultra Low Standard - USD,22/09/2025,Y,23/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351623281,351623281,MT5,Lot Rebate,Standard - USD,22/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351629490,351629490,MT5,Lot Rebate,Standard - USD,23/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351629989,351629989,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351630743,351630743,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351631806,351631806,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351632564,351632564,MT5,Lot Rebate,Standard - USD,23/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351632889,351632889,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351632912,351632912,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351633782,351633782,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351633901,351633901,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351634785,351634785,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351635757,351635757,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351635869,351635869,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,23/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351636293,351636293,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351636293,351643581,MT5,Lot Rebate,Standard - USD,24/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+351639277,351639277,MT5,Lot Rebate,Standard - USD,24/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351639630,351639630,MT5,Lot Rebate,Standard - USD,24/09/2025,Y,30/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351641577,351641577,MT5,Lot Rebate,Standard - USD,24/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351644608,351644608,MT5,Lot Rebate,Standard - USD,24/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351645697,351645697,MT5,Lot Rebate,Standard - USD,24/09/2025,Y,25/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351646852,351646852,MT5,Lot Rebate,Standard - USD,24/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351647970,351647970,MT5,Lot Rebate,Standard - USD,24/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,Y
+351654435,351654435,MT5,Lot Rebate,Standard - USD,25/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
+351654856,351654856,MT5,Lot Rebate,Standard - USD,25/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+351654911,351654911,MT5,Lot Rebate,Standard - USD,25/09/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+351657468,351657468,MT5,Lot Rebate,Standard - USD,25/09/2025,Y,26/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+351662997,351662997,MT5,Lot Rebate,Standard - USD,26/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 360195681,91755530,MT5,Lot Rebate,Standard - USD,28/08/2025,Y,-,N/A,Mauritius,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+360708371,321538024,MT5,Lot Rebate,Ultra Low Standard - USD,11/10/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+360972910,321444608,MT5,Lot Rebate,Ultra Low Standard - USD,01/10/2025,Y,01/10/2025,N/A,India,FTSXM,FTSFX,XM Global,,Default,-,Y,N
 361252297,321237045,MT5,Lot Rebate,Ultra Low Standard - USD,11/08/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 361252297,321237059,MT5,Lot Rebate,Ultra Low Standard - USD,11/08/2025,Y,11/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 361252297,351367384,MT5,Lot Rebate,Ultra Low Standard - USD,24/07/2025,Y,24/07/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
@@ -1084,10 +1301,14 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 361268367,361268367,MT5,Lot Rebate,Standard - USD,21/07/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 361341080,361341080,MT5,Lot Rebate,Standard - USD,31/08/2025,Y,-,N/A,United Arab Emirates,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 380097566,351448810,MT5,Lot Rebate,Standard - USD,15/08/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
+380164696,321586253,MT5,Lot Rebate, - ,15/10/2025,Y,-,N/A,,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+380164696,321586256,MT5,Lot Rebate, - ,15/10/2025,Y,-,N/A,,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+380190209,321444475,MT5,Lot Rebate,Standard - USD,01/10/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 380235612,323537643,MT5,Lot Rebate,Standard - USD,16/07/2025,Y,17/07/2025,N/A,India,Default Trader Campaign,,XM Global,,Default,-,N,N
 380386323,321240308,MT5,Lot Rebate,Standard - USD,11/08/2025,Y,18/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 380386323,321240373,MT5,Lot Rebate,Standard - USD,11/08/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 380451362,341405942,MT5,Lot Rebate,Ultra Low Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+380490538,351626583,MT5,Lot Rebate,Standard - USD,23/09/2025,Y,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 380739864,321121655,MT5,Lot Rebate,Ultra Low Standard - USD,20/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
 380973179,351369196,MT5,Lot Rebate,Standard - USD,24/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 381002781,381002781,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,Y,N
@@ -1103,6 +1324,8 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 381018721,381018721,MT5,Lot Rebate,Standard - USD,20/07/2025,Y,31/08/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 381019662,381019662,MT5,Lot Rebate,Standard - USD,21/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 390223398,321316991,MT5,Lot Rebate,Standard - USD,01/09/2025,Y,06/09/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
+390385233,321454891,MT5,Lot Rebate,Standard - USD,02/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
+390695471,351606507,MT5,Lot Rebate,Ultra Low Standard - USD,21/09/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,N
 390695471,390695471,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
 390695623,390695623,MT5,Lot Rebate,Standard - USD,12/07/2025,Y,12/07/2025,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 390696482,390696482,MT5,Lot Rebate,Standard - USD,13/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,N
@@ -1114,6 +1337,7 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 390698562,390698562,MT5,Lot Rebate,Standard - USD,14/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 390701998,351335930,MT5,Lot Rebate,Standard - USD,15/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 390701998,390701998,MT5,Lot Rebate,Standard - USD,15/07/2025,Y,17/07/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
+390702181,321554949,MT5,Lot Rebate,Standard - USD,12/10/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 390702181,390702181,MT5,Lot Rebate,Standard - USD,15/07/2025,Y,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
 390702237,390702237,MT5,Lot Rebate,Standard - USD,15/07/2025,N,-,N/A,India,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
 390703424,390703424,MT5,Lot Rebate,Standard - USD,16/07/2025,N,-,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,N,Y
@@ -1141,3 +1365,4 @@ Client ID,MT4/MT5 ID,Trading Platform,Schema,Account Type,Signup Date,Verified,A
 400419816,321281529,MT5,Lot Rebate,Standard - USD,27/08/2025,Y,08/09/2025,N/A,India,Default Trader Campaign,P387D,XM Global,,Default,-,Y,N
 410007383,410007383,MT5,Lot Rebate,Standard - USD,29/08/2025,N,-,N/A,Nepal,Default Trader Campaign,,XM Global,https://m.youtube.com,Default,-,N,N
 410134057,410134057,MT5,Lot Rebate,Standard - USD,09/09/2025,N,-,N/A,United Arab Emirates,Default Trader Campaign,,XM Global,https://www.youtube.com,Default,-,N,Y
+410258244,410258244,MT5,Lot Rebate,Standard - USD,05/10/2025,N,-,N/A,Nepal,Default Trader Campaign,P387D,XM Global,,Default,-,Y,Y
